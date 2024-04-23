@@ -1,6 +1,6 @@
 const data = [{
     "id": "E1002",
-    "image": "profile1.png",
+    "image": "/profile1.png",
     "firstName": "John",
     "lastName": "Smith",
     "email": "john.smith@example.com",
@@ -14,7 +14,7 @@ const data = [{
   
   {
     "id": "E1003",
-    "image": "profile2.png",
+    "image": "/profile2.png",
     "firstName": "Lisa",
     "lastName": "White",
     "email": "lisa.white@example.com",
@@ -28,7 +28,7 @@ const data = [{
   
   {
     "id": "E1004",
-    "image": "profile3.png",
+    "image": "/profile3.png",
     "firstName": "Mark",
     "lastName": "Brown",
     "email": "mark.brown@example.com",
@@ -42,7 +42,7 @@ const data = [{
   
   {
     "id": "E1005",
-    "image": "profile4.png",
+    "image": "/profile4.png",
     "firstName": "Emily",
     "lastName": "Green",
     "email": "emily.green@example.com",
@@ -56,7 +56,7 @@ const data = [{
   
   {
     "id": "E1006",
-    "image": "profile5.png",
+    "image": "/profile5.png",
     "firstName": "Alex",
     "lastName": "Johnson",
     "email": "alex.johnson@example.com",
